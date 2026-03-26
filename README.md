@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Aseem+Gupta+👋;AI+%2F+ML+%2F+Data+Science+Engineer;Building+intelligent+systems;Part-time+poet+%26+music+geek+🎵)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Aseem+Gupta+👋;AI+%2F+ML+Engineer+%40+NBIL;Computer+Vision+%7C+Deep+Learning;Building+RAG+pipelines+%26+YOLO+models;Part-time+poet+%26+music+geek+🎵)](https://git.io/typing-svg)
 
 <br/>
 
@@ -15,63 +15,60 @@
 
 ## 👨‍💻 About Me
 
-I'm a **working professional** passionate about the intersection of **AI, machine learning, and data science**. I love turning raw data into meaningful insights and building intelligent systems that solve real-world problems.
+I'm an **AI/ML Engineer at Next Big Innovation Labs, Bengaluru**, building intelligent systems at the edge of computer vision, deep learning, and automation. I've trained custom YOLO models, built RAG pipelines, and engineered full-stack AI applications — from firmware to frontend.
 
-When I'm not training models or debugging pipelines, you'll find me exploring new tech, lost in music, or quietly writing poetry. 🎵✍️
+When I'm not wrangling models or debugging G-code, you'll find me exploring new tech, lost in music, or quietly writing poetry. 🎵✍️
 
-- 🔭 Currently working on projects in **AI / ML / Data Science**
-- 🌱 Always learning — currently exploring **LLMs & Generative AI**
-- 💬 Ask me about **Python, ML pipelines, deep learning, or full-stack dev**
-- 📫 Reach me at [LinkedIn](https://linkedin.com/in/theaseemgupta) or [Twitter](https://twitter.com/iamgeekyaseem)
-- ⚡ Fun fact: I'm a part-time poet with an unhealthy fascination with music
+- 🔭 Currently building **Real-Time Quality Control systems for 3D bioprinters** @ Next Big Innovation Labs
+- 🎓 B.Tech Biotechnology, **NIT Andhra Pradesh** (CGPA: 8.22)
+- 🌱 Exploring **LLMs, RAG pipelines & Generative AI**
+- 🏆 Published at the **4th International Conference on Bioprocess for Sustainable Environment and Energy, 2025**
+- 💬 Ask me about **Computer Vision, Deep Learning, Python, or Full-Stack Dev**
+- 📫 Reach me at [LinkedIn](https://linkedin.com/in/theaseemgupta) · [iamgeekyaseem@gmail.com](mailto:iamgeekyaseem@gmail.com)
+- ⚡ Fun fact: Part-time poet, TEDx lead, and Google Developer Groups organiser
 
 ---
 
 ## 🚀 What I'm Building
 
-> *(Update this section with your current projects!)*
-
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🔬 Project 1 | Brief description of what you're working on | `Python` `PyTorch` |
-| 📊 Project 2 | Brief description of another project | `React` `Node.js` |
-| 🤖 Project 3 | An AI/ML experiment or tool | `TensorFlow` `FastAPI` |
+| 🦾 RTQC-DPR System | Full-stack Real-Time Quality Control app for 3D bioprinters — automates calibration-to-print pipeline, cutting setup time by 50%+ | `Python` `YOLO` `PyQt5` `Scikit-learn` `Matplotlib` |
+| 🤖 Video RAG Q&A Bot | End-to-end RAG pipeline that turns any YouTube video into a queryable knowledge base | `Python` `Whisper` `spaCy` `ChromaDB` `Sentence-Transformers` |
+| 🔬 Toxicity Analysis of Dye | Predictive ML system with fuzzy logic for biosorption efficiency analysis — 95% accuracy | `Python` `XGBoost` `SVR` `Random Forest` `ANN` |
+| 👁️ Diabetic Retinopathy Detection | Deep learning solution for fluorescent dot quantification in retinal images — 94% accuracy | `Python` `YOLOv5` `OpenCV` |
 
 ---
 
 ## 🛠️ Tech Stack
 
-**AI / ML / Data Science**
+**AI / ML / Computer Vision**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 
 **Web & Backend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
-**Databases & Cloud**
+**Tools & Platforms**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**Design & Tools**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
