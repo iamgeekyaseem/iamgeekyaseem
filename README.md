@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Aseem+Gupta+👋;AI+%2F+ML+Engineer+%40+NBIL;Computer+Vision+%7C+Deep+Learning;Building+RAG+pipelines+%26+YOLO+models;Part-time+poet+%26+music+geek+🎵)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Aseem+Gupta;AI+%2F+ML+Engineer+%40;Computer+Vision+%7C+Deep+Learning;Building+RAG+pipelines+%26+YOLO+models;Part-time+poet+%26+music+geek+)](https://git.io/typing-svg)
 
 <br/>
 
@@ -13,34 +13,40 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm an **AI/ML Engineer at Next Big Innovation Labs, Bengaluru**, building intelligent systems at the edge of computer vision, deep learning, and automation. I've trained custom YOLO models, built RAG pipelines, and engineered full-stack AI applications — from firmware to frontend.
+I'm an **AI/ML Engineer at Next Big Innovation Labs, Bengaluru**, building intelligent systems at the edge of computer vision, deep learning, and automation. I've trained custom YOLO models, built RAG pipelines, and engineered full-stack AI applications.
 
-When I'm not wrangling models or debugging G-code, you'll find me exploring new tech, lost in music, or quietly writing poetry. 🎵✍️
+When I'm not wrangling models or debugging, you'll find me exploring cafes, lost in music, or quietly sketching doodles.
 
-- 🔭 Currently building **Real-Time Quality Control systems for 3D bioprinters** @ Next Big Innovation Labs
-- 🎓 B.Tech Biotechnology, **NIT Andhra Pradesh** (CGPA: 8.22)
-- 🌱 Exploring **LLMs, RAG pipelines & Generative AI**
-- 🏆 Published at the **4th International Conference on Bioprocess for Sustainable Environment and Energy, 2025**
-- 💬 Ask me about **Computer Vision, Deep Learning, Python, or Full-Stack Dev**
-- 📫 Reach me at [LinkedIn](https://linkedin.com/in/theaseemgupta) · [iamgeekyaseem@gmail.com](mailto:iamgeekyaseem@gmail.com)
-- ⚡ Fun fact: Part-time poet, TEDx lead, and Google Developer Groups organiser
+- Currently building **Real-Time Quality Control systems for 3D bioprinters** @ Next Big Innovation Labs  
+- B.Tech Biotechnology, **NIT Andhra Pradesh**  
+- Working with **LLMs, RAG pipelines & Generative AI**  
+- Published at the **4th International Conference on Bioprocess for Sustainable Environment and Energy, 2025**  
+- Ask me about **Computer Vision, Deep Learning, AI**  
+- Reach me at [LinkedIn](https://linkedin.com/in/theaseemgupta) · [iamgeekyaseem@gmail.com](mailto:iamgeekyaseem@gmail.com)  
+
+- Extracurricular:
+  - Biotechnology Engineering Association — Secretary (2024–25), Joint Secretary (2023–24), Executive Committee (2022–23)
+  - TEDx NIT Andhra Pradesh — Lead Designer  
+  - Graphic Cafe (Media Cell) & Institute Magazine — Joint Secretary, Chief Editor, Networking Manager  
+  - Google Developer Student Clubs (GDSC) — Senior Outreach Manager  
+  - Vulcanzy (Annual Institute Fest) — Design Lead, Event Coordinator, Sponsorship Manager  
 
 ---
 
-## 🚀 What I'm Building
+## Projects
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🦾 RTQC-DPR System | Full-stack Real-Time Quality Control app for 3D bioprinters — automates calibration-to-print pipeline, cutting setup time by 50%+ | `Python` `YOLO` `PyQt5` `Scikit-learn` `Matplotlib` |
-| 🤖 Video RAG Q&A Bot | End-to-end RAG pipeline that turns any YouTube video into a queryable knowledge base | `Python` `Whisper` `spaCy` `ChromaDB` `Sentence-Transformers` |
-| 🔬 Toxicity Analysis of Dye | Predictive ML system with fuzzy logic for biosorption efficiency analysis — 95% accuracy | `Python` `XGBoost` `SVR` `Random Forest` `ANN` |
-| 👁️ Diabetic Retinopathy Detection | Deep learning solution for fluorescent dot quantification in retinal images — 94% accuracy | `Python` `YOLOv5` `OpenCV` |
+| RTQC-DPR System | Full-stack Real-Time Quality Control app for 3D bioprinters — automates calibration-to-print pipeline, cutting setup time by 50%+ | `Python` `YOLO` `PyQt5` `Scikit-learn` `Matplotlib` |
+| Video RAG Q&A Bot | End-to-end RAG pipeline that turns any YouTube video into a queryable knowledge base | `Python` `Whisper` `spaCy` `ChromaDB` `Sentence-Transformers` |
+| Toxicity Analysis of Dye | Predictive ML system with fuzzy logic for biosorption efficiency analysis — 95% accuracy | `Python` `XGBoost` `SVR` `Random Forest` `ANN` |
+| Diabetic Retinopathy Detection | Deep learning solution for fluorescent dot quantification in retinal images — 94% accuracy | `Python` `YOLOv5` `OpenCV` |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **AI / ML / Computer Vision**
 
@@ -72,7 +78,7 @@ When I'm not wrangling models or debugging G-code, you'll find me exploring new 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -88,7 +94,7 @@ When I'm not wrangling models or debugging G-code, you'll find me exploring new 
 
 ---
 
-## 🤝 Connect with Me
+## Connect with Me
 
 <div align="center">
 
